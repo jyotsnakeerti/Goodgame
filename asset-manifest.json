@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Goodgame/static/css/main.0b2a5a7b.css",
+    "main.js": "/Goodgame/static/js/main.78984d3e.js",
+    "static/media/bg30.jpg": "/Goodgame/static/media/bg30.65a44c5102c9b221b632.jpg",
+    "static/media/beerImg.png": "/Goodgame/static/media/beerImg.431b384d759a6b97e5a6.png",
+    "index.html": "/Goodgame/index.html",
+    "main.0b2a5a7b.css.map": "/Goodgame/static/css/main.0b2a5a7b.css.map",
+    "main.78984d3e.js.map": "/Goodgame/static/js/main.78984d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2a5a7b.css",
+    "static/js/main.78984d3e.js"
+  ]
+}
